@@ -1,6 +1,5 @@
-<<<<<<< 53269e76a302d20ad412d2c4fdda620c2ab8d478
 # angular-tour-of-heroes
-=======
+
 > You know... Angular 2.
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
